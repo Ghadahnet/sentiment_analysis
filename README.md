@@ -1,1 +1,1 @@
-# sentiment_analysis
+The dataset contains customer reviews about a restaurant. We cleaned the data and categorized the reviews into positive and negative comments. After that, we built a model using the bag of words technique, which was able to accurately classify the comments as either positive or negative.
